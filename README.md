@@ -5,11 +5,7 @@
 </strong></h3>
 
 <h6 align="center">
-  Inzamamul Aalm<sup>
-    <a href="" target="_blank">
-      <img src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" alt="Google Scholar" width="14">
-    </a>
-  </sup>,
+  Inzamamul Aalm,
   Md Tanvir Islam<sup>
     <a href="https://scholar.google.com/citations?user=UvINe-sAAAAJ&hl=en" target="_blank">
       <img src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" alt="Google Scholar" width="14">
