@@ -1,7 +1,7 @@
 <h5 align="center"><strong><a href="https://www2025.thewebconf.org/short-papers">Accepted at ACM Multimedia 2025, Dublin, Ireland</a></strong></h4>
 
 <h3 align="center"><strong>SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection
-  <a href="assets/SpecGuard_ICCV_2025.pdf" target="_blank"> [Paper]</a>
+  <a href="https://github.com/inzamamulDU/SpecXNet/blob/18ea665dfeb88a2194cdee221102e77ff775666c/assets/SpecXNet_ACMMM_2025.pdf" target="_blank"> [Paper]</a>
 </strong></h3>
 
 <h6 align="center">
