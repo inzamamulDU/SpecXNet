@@ -52,5 +52,11 @@ If you find this work or code is helpful in your research, please cite:
 
 
 ````
+<details>
+<summary><b>✅ To-Do</b> (click to expand)</summary>
 
-we will release our model soon.
+- [x] Add Train Code
+- [ ] Add Test Code
+- [ ] Add Model Weight
+
+</details>
