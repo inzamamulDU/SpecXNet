@@ -55,7 +55,7 @@ If you find this work or code is helpful in your research, please cite:
 <details>
 <summary><b>✅ To-Do</b> (click to expand)</summary>
 
-- [x] Add Train Code
+- [x] Add FULL Train Code
 - [ ] Add Test Code
 - [ ] Add Model Weight
 
