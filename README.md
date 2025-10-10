@@ -37,7 +37,7 @@ https://github.com/pytorch/examples/tree/master/imagenet
 To train a model, run [main.py](main.py) with the desired model architecture and other super-paremeters:
 
 ```bash
- python3 main.py -a ffc_xception --lfu -data [data/path] --gpu [gpu no]
+ python3 main.py -a ffc_xception --lfu -data/csv [data/path] --use_se --gpu [gpu no]
 ```
 
 
