@@ -1,14 +1,3 @@
-"""
-Creates an FFC Xception Model based on:
-
-Francois Chollet
-Xception: Deep Learning with Depthwise Separable Convolutions
-https://arxiv.org/pdf/1610.02357.pdf
-
-This implementation integrates Fast Fourier Convolutions (FFC) into the Xception architecture.
-Ensure that the FFC module (imported below) provides FFC_BN_ACT and FFCSE_block.
-"""
-
 import math
 import torch
 import torch.nn as nn
@@ -124,7 +113,7 @@ class Xception(nn.Module):
     FFC Xception optimized for ImageNet.
     This network uses FFC-based separable convolutions and blocks.
     """
-    def __init__(self, num_classes=1000, ratio_gin=0.5, ratio_gout=0.5, lfu=True):
+    def __init__(self, num_classes=2, ratio_gin=0.5, ratio_gout=0.5, lfu=True):
         super(Xception, self).__init__()
         self.num_classes = num_classes
         self.ratio = ratio_gin
